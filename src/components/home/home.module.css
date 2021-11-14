@@ -1,0 +1,81 @@
+.homeWrapper{
+    margin-top: 25px;
+}
+.homeItem{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.homeItem p{
+    margin: 5px 0;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.homeItem input{
+    /*border-color: darkblue;*/
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    margin: 0 5px;
+}
+.homeItem input.cities{
+    width: 200px;
+    height: 40px;
+}
+
+.homeItem input.submit{
+    height: 27px;
+}
+
+.todayWeather{
+    width: 100%;
+    height: 350px;
+}
+
+.todayWeather h2{
+
+}
+
+.location{
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.todayCurrent{
+    font-weight: 500;
+    margin-left: 35px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.todayWeatherHeader{
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+
+.forecast {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 40px 0;
+}
+
+.snow{
+    width: 60px;
+}
+
+.forecastUnder{
+    text-decoration: underline;
+
+}
+
+
+
+
+
+
+
+
+
+
